@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grayDividerColor">#D1CFCF</color>
+    <color name="grayTextColor">#7C7A7A</color>
+    <color name="grayIconColor">#434242</color>
+    <color name="callButtonColor">#FDB44A</color>
+    <color name="textPrimaryColor">#FF000000</color>
+</resources>
